@@ -3,6 +3,7 @@ class Main{
         System.out.print("Это добавлено в ветке main");
         int a = 5;
         int b = 7;
+        System.out.println("Сумма: " + (a + b));
     }
 }
 
