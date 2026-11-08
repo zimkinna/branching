@@ -5,5 +5,6 @@ class Main{
         int b = 7;
         System.out.println("Сумма: " + (a + b));
         System.out.println("Произведение: " + (a * b));
+        System.out.println("Изменение в main после ветвления");
     }
 }
