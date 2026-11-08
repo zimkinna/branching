@@ -6,5 +6,6 @@ class Main{
         System.out.println("Сумма: " + (a + b));
         System.out.println("Произведение: " + (a * b));
         System.out.println("Изменение в main после ветвления");
+        System.out.print("Это добавлено в ветке dev");
     }
 }
